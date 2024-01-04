@@ -1,4 +1,4 @@
 ### Hello there 👋
 
-#### Working on improving ABC by day ☼ and building EFG by night ☾
+#### Working on creating PRs during the day ☼ and merging them at night ☾
 
