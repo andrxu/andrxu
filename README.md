@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 Working on something during the day ☼ and merging them during the night ☾
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
   - Two fun projects  
 - 🌱 I’m currently learning:
   - Go 
